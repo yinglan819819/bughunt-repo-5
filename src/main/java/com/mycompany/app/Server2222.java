@@ -17,7 +17,7 @@ public class Server2
     private void foo(String p) {
        String s = "aloha";
        System.out.println(String.format("This is a faulty message: %i", s));
-       System.out.format("No %s",2);
+       System.out.format("No %s",3);
     }
 
     private void cipher(String s) throws Exception
